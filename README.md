@@ -1,5 +1,5 @@
 # :woman_technologist: Manar Essam
-- 👋 Hi I'm a computer engineering fresh graduate
+- 👋 Hi I'm a FullStack Developer (.Net,ReactJS)
 - 👀 I’m interested in web and app development 
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on different web and app projects
